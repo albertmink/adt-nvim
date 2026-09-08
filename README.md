@@ -22,7 +22,7 @@ With [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 {
-  "your-username/adt-nvim",
+  "albertmink/adt-nvim",
   dependencies = {
     "nvim-telescope/telescope.nvim", -- optional
     "SmiteshP/nvim-navic",           -- optional
